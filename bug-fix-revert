@@ -1,0 +1,23 @@
+$ curl -L https://api.github.com/repos/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub/pulls/11864
+
+"number": 11864,
+"state": "closed",
+"title": "Fix typo in README",
+
+"head": {
+  "label": "furqaanbagwan:bug-fix-typo",
+  "ref": "bug-fix-typo",
+  "repo": {
+    "full_name": "furqaanbagwan/mcino-Introduction-to-Git-and-GitHub",
+    "fork": true
+  }
+},
+
+"base": {
+  "label": "ibm-developer-skills-network:main",
+  "ref": "main"
+},
+
+"merged": false,
+"mergeable": true,
+"changed_files": 1
