@@ -1,5 +1,3 @@
-$ git branch -vv
-* bug-fix-revert b2140f4 Update fork verification output
+  bug-fix-revert 996237f Update github branches output
   bug-fix-typo   1efd881 [origin/bug-fix-typo] Fix typo in README
-  main           b2140f4 [origin/main] Update fork verification output
-
+* main           588b08c [origin/main] Add curl command to bug fix revert output
