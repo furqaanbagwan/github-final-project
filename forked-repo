@@ -1,0 +1,14 @@
+$ curl -L https://api.github.com/repos/furqaanbagwan/mcino-Introduction-to-Git-and-GitHub
+{
+  "full_name": "furqaanbagwan/mcino-Introduction-to-Git-and-GitHub",
+  "fork": true,
+  "default_branch": "main",
+  "parent": {
+    "full_name": "ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub"
+  },
+  "source": {
+    "full_name": "ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub"
+  }
+}
+
+
